@@ -4,7 +4,7 @@ View Project on [Github](https://github.com/kinhdev24/health-app)
 
 The libraries and technologies used in the project.:
 
-- [vitejs]() uses for development environment
+- [vitejs](https://vitejs.dev/) uses for development environment
 - [ant-design](https://ant.design/) uses for React UI library
 - [react-router-dom](https://reactrouter.com/en/main) uses for Routing
 - [apexcharts ](https://apexcharts.com/docs/react-charts/)users for Draw Chart
